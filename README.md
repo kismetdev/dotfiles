@@ -5,4 +5,5 @@
 
 # dwm & dwmblocks
 - ```sudo make install``` to compile & install
+
 ![dwm](https://cdn.discordapp.com/attachments/1047658304098287728/1050212580301492224/185510357-c83ce8af-b12b-4145-86db-b7248d48b67e.png)
