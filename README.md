@@ -1,5 +1,5 @@
 # dotfiles
-- For [Kitty](https://sw.kovidgoyal.net/kitty/) (Transparency, Color Scheme) with [Dracula Colorscheme](https://draculatheme.com/contribute).
+- For [Kitty](https://sw.kovidgoyal.net/kitty/) (Transparency, Color Scheme) with [Dracula Colors](https://draculatheme.com/contribute).
 
 ![kitty](https://cdn.discordapp.com/attachments/1047658304098287728/1050164663565942875/vmware_oetZz0unCl.png)
 
