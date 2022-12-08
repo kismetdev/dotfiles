@@ -1,0 +1,8 @@
+#!/bin/bash
+
+#user= whoami && cat /proc/sys/kernel/hostname
+user= whoami 
+
+
+echo "$user"
+
