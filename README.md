@@ -28,4 +28,4 @@ Dotfiles, Dwm & Dwmblocks, wallpapers & some useful scripts.
 </p>
 <p align="center"><a href="https://sw.kovidgoyal.net/kitty/">🐈 kitty</a></p> 
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/1047658304098287728/1050164663565942875/vmware_oetZz0unCl.png" align="center" style="width:450px;height:250px;">  </p>
+<img src="https://cdn.discordapp.com/attachments/1047658304098287728/1050164663565942875/vmware_oetZz0unCl.png" align="center" style="width:458px;height:322px;">  </p>
