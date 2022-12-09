@@ -3,6 +3,9 @@
 
 ![kitty](https://cdn.discordapp.com/attachments/1047658304098287728/1050164663565942875/vmware_oetZz0unCl.png)
 
+# wallpapers
+- random nice looking wallpapers (Not mine)
+
 # dwm & dwmblocks
 - ```sudo make install``` to compile & install
 
